@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CHILIN Display Remote</string>
+    <string name="action_settings">設定</string>
+    <string name="hello_world">歡迎進入Android 的世界!</string>
+    <string name="push_me">你按到我了!</string>
+    <string name="btntext">轉換</string>
+
+</resources>
